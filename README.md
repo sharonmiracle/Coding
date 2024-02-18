@@ -4,3 +4,4 @@
 4) Program to print Full Pyramid Pattern
 5) Program to check if a number is Palindrome or not
 6) Program to count the number of vowels in a word
+7) Program to count the number of consonants in a word
