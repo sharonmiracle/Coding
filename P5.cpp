@@ -3,18 +3,18 @@ using namespace std;
 int main()
 {
     int n;
-    int sum = 0;
-    int rev, temp;
+    int rev = 0;
+    int rem, temp;
     cout<<"Enter a number : ";
     cin>>n;
     temp = n;
     while(temp>0)
     {
-        rev = temp%10;
-        sum = (sum*10) + rev;
+        rem = temp%10;
+        rev = (rev*10) + rem;
         temp = temp/10;
     }
-    if(sum == n)
+    if(rev == n)
     {
         cout<<"It is a Palindrome";
     }
