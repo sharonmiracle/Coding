@@ -21,3 +21,27 @@
     3 3 3
     4 4 4 4
     5 5 5 5 5
+14) Program to print the pattern
+    1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
+13) Program to print the pattern
+    1
+    2 2
+    3 3 3
+    4 4 4 4
+    5 5 5 5 5
+14) Program to print the pattern
+    A
+    A B
+    A B C
+    A B C D
+    A B C D E
+15) Program to print the pattern
+    A
+    B B
+    C C C
+    D D D D
+    E E E E E 
