@@ -6,3 +6,4 @@
 6) Program to count the number of vowels in a word
 7) Program to count the number of consonants in a word
 8) Program to check if a number is Even or Odd
+9) Program to check if a number is Prime number or not
