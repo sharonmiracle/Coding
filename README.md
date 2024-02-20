@@ -8,3 +8,4 @@
 8) Program to check if a number is Even or Odd
 9) Program to check if a number is Prime number or not
 10) Program to calculate the sum of 'n' numbers
+11) Program to calculate the product of 'n' numbers
