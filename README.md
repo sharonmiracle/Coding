@@ -7,3 +7,4 @@
 7) Program to count the number of consonants in a word
 8) Program to check if a number is Even or Odd
 9) Program to check if a number is Prime number or not
+10) Program to calculate the sum of 'n' numbers
