@@ -9,3 +9,15 @@
 9) Program to check if a number is Prime number or not
 10) Program to calculate the sum of 'n' numbers
 11) Program to calculate the product of 'n' numbers
+12) Program to print the pattern
+    1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
+13) Program to print the pattern
+    1
+    2 2
+    3 3 3
+    4 4 4 4
+    5 5 5 5 5
