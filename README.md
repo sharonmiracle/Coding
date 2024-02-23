@@ -34,3 +34,4 @@
     D D D D
     E E E E E 
 16)  Program to check if a string is Palindrome or not
+17)  Program to calculate the product of digits of a number
