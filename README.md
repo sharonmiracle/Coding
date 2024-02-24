@@ -42,3 +42,5 @@
      2 3
      4 5 6
      7 8 9 10
+21) Program to find the Factorial of a number without uing recursion
+22) Program to find the Factorial of a number by uing recursion
