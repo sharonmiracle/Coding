@@ -36,3 +36,4 @@
 16)  Program to check if a string is Palindrome or not
 17)  Program to calculate the product of digits of a number
 18)  Program to calculate the sum of Prime numbers within a given range
+19)  Program to convert a Binary number to Decimal number
