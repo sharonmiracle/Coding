@@ -37,3 +37,8 @@
 17)  Program to calculate the product of digits of a number
 18)  Program to calculate the sum of Prime numbers within a given range
 19)  Program to convert a Binary number to Decimal number
+20)  Program to print the pattern
+     1
+     2 3
+     4 5 6
+     7 8 9 10
