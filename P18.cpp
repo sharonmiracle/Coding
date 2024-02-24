@@ -13,6 +13,7 @@ bool primeCheck(int a)
         if(a%i==0)
         {
             isPrime = false;
+            break;
         }
     }
     return isPrime;
