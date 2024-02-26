@@ -44,4 +44,5 @@
      7 8 9 10
 21) Program to find the Factorial of a number without uing recursion
 22) Program to find the Factorial of a number by uing recursion
-23) Program to print the Fiboncci series
+23) Program to print the Fiboncci series of a number 'n' without uing recursion
+24) Program to print the Fiboncci series of a number 'n' by uing recursion
