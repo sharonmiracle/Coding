@@ -7,7 +7,7 @@
 7) Program to count the number of consonants in a word
 8) Program to check if a number is Even or Odd
 9) Program to check if a number is Prime number or not
-10) Program to calculate the sum of 'n' numbers
+10) Program to calculate the sum of 'n' numbers (METHOD 1)
 11) Program to calculate the product of 'n' numbers
 12) Program to print the pattern
     1
@@ -46,3 +46,4 @@
 22) Program to find the Factorial of a number by uing recursion
 23) Program to print the Fiboncci series of a number 'n' without uing recursion
 24) Program to print the Fiboncci series of a number 'n' by uing recursion
+25) Program to calculate the sum of 'n' numbers (METHOD 2)
