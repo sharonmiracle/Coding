@@ -47,3 +47,4 @@
 23) Program to print the Fiboncci series of a number 'n' without uing recursion
 24) Program to print the Fiboncci series of a number 'n' by uing recursion
 25) Program to calculate the sum of 'n' numbers (METHOD 2)
+26) Program to calculate the sum of squares of 'n' natural numbers
