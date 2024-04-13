@@ -49,3 +49,4 @@
 25) Program to calculate the sum of 'n' numbers (METHOD 2)
 26) Program to calculate the sum of squares of 'n' natural numbers
 27) Program to print the series 3+33+333+3333
+28) Program to check whether the given character is Vowel or Consonant
